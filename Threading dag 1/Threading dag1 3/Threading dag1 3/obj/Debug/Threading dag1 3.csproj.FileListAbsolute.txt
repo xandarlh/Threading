@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\Threading dag1 3\Threading dag1 3\obj\Debug\Threading dag1 3.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\Threading dag1 3\Threading dag1 3\bin\Debug\Threading dag1 3.exe.config
+C:\Users\alex303a\source\repos\Threading dag1 3\Threading dag1 3\bin\Debug\Threading dag1 3.exe
+C:\Users\alex303a\source\repos\Threading dag1 3\Threading dag1 3\bin\Debug\Threading dag1 3.pdb
+C:\Users\alex303a\source\repos\Threading dag1 3\Threading dag1 3\obj\Debug\Threading dag1 3.exe
+C:\Users\alex303a\source\repos\Threading dag1 3\Threading dag1 3\obj\Debug\Threading dag1 3.pdb
