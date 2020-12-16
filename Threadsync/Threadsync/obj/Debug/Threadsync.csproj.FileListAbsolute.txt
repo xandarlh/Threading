@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\Threadsync\Threadsync\bin\Debug\Threadsync.exe.config
+C:\Users\alex303a\source\repos\Threadsync\Threadsync\bin\Debug\Threadsync.exe
+C:\Users\alex303a\source\repos\Threadsync\Threadsync\bin\Debug\Threadsync.pdb
+C:\Users\alex303a\source\repos\Threadsync\Threadsync\obj\Debug\Threadsync.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\Threadsync\Threadsync\obj\Debug\Threadsync.exe
+C:\Users\alex303a\source\repos\Threadsync\Threadsync\obj\Debug\Threadsync.pdb
