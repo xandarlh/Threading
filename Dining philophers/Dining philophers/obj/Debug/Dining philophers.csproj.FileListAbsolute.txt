@@ -1,0 +1,6 @@
+C:\Users\alex303a\source\repos\Dining philophers\Dining philophers\bin\Debug\Dining philophers.exe.config
+C:\Users\alex303a\source\repos\Dining philophers\Dining philophers\bin\Debug\Dining philophers.exe
+C:\Users\alex303a\source\repos\Dining philophers\Dining philophers\bin\Debug\Dining philophers.pdb
+C:\Users\alex303a\source\repos\Dining philophers\Dining philophers\obj\Debug\Dining philophers.csprojAssemblyReference.cache
+C:\Users\alex303a\source\repos\Dining philophers\Dining philophers\obj\Debug\Dining philophers.exe
+C:\Users\alex303a\source\repos\Dining philophers\Dining philophers\obj\Debug\Dining philophers.pdb
